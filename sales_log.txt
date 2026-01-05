@@ -1,0 +1,68 @@
+2025-11-26|Customer_1|20000|Item A x1\nMethod: cash\n
+2025-11-26|Customer_2|30000|Item B x1\nMethod: card\n
+2025-11-26|Customer_3|40000|Item C x2\nMethod: cash\n
+2025-11-26|Customer_4|50000|Bundle Pack\nMethod: transfer\n
+2025-11-26|Customer_5|60000|Item D x3\nMethod: cash\n
+2025-11-27|Customer_1|20000|Item A x1\nMethod: cash\n
+2025-11-27|Customer_2|30000|Item B x1\nMethod: card\n
+2025-11-27|Customer_3|40000|Item C x2\nMethod: cash\n
+2025-11-27|Customer_4|50000|Bundle Pack\nMethod: transfer\n
+2025-11-27|Customer_5|60000|Item D x3\nMethod: cash\n
+2025-11-28|Customer_1|20000|Item A x1\nMethod: cash\n
+2025-11-28|Customer_2|30000|Item B x1\nMethod: card\n
+2025-11-28|Customer_3|40000|Item C x2\nMethod: cash\n
+2025-11-28|Customer_4|50000|Bundle Pack\nMethod: transfer\n
+2025-11-28|Customer_5|60000|Item D x3\nMethod: cash\n
+2025-11-29|Customer_1|20000|Item A x1\nMethod: cash\n
+2025-11-29|Customer_2|30000|Item B x1\nMethod: card\n
+2025-11-29|Customer_3|40000|Item C x2\nMethod: cash\n
+2025-11-29|Customer_4|50000|Bundle Pack\nMethod: transfer\n
+2025-11-29|Customer_5|60000|Item D x3\nMethod: cash\n
+2025-11-30|Customer_1|20000|Item A x1\nMethod: cash\n
+2025-11-30|Customer_2|30000|Item B x1\nMethod: card\n
+2025-11-30|Customer_3|40000|Item C x2\nMethod: cash\n
+2025-11-30|Customer_4|50000|Bundle Pack\nMethod: transfer\n
+2025-11-30|Customer_5|60000|Item D x3\nMethod: cash\n
+2025-12-01|Customer_1|20000|Item A x1\nMethod: cash\n
+2025-12-01|Customer_2|30000|Item B x1\nMethod: card\n
+2025-12-01|Customer_3|40000|Item C x2\nMethod: cash\n
+2025-12-01|Customer_4|50000|Bundle Pack\nMethod: transfer\n
+2025-12-01|Customer_5|60000|Item D x3\nMethod: cash\n
+2025-12-02|Customer_1|20000|Item A x1\nMethod: cash\n
+2025-12-02|Customer_2|30000|Item B x1\nMethod: card\n
+2025-12-02|Customer_3|40000|Item C x2\nMethod: cash\n
+2025-12-02|Customer_4|50000|Bundle Pack\nMethod: transfer\n
+2025-12-02|Customer_5|60000|Item D x3\nMethod: cash\n
+2025-12-03|Customer_1|20000|Item A x1\nMethod: cash\n
+2025-12-03|Customer_2|30000|Item B x1\nMethod: card\n
+2025-12-03|Customer_3|40000|Item C x2\nMethod: cash\n
+2025-12-03|Customer_4|50000|Bundle Pack\nMethod: transfer\n
+2025-12-03|Customer_5|60000|Item D x3\nMethod: cash\n
+2025-12-04|Customer_1|20000|Item A x1\nMethod: cash\n
+2025-12-04|Customer_2|30000|Item B x1\nMethod: card\n
+2025-12-04|Customer_3|40000|Item C x2\nMethod: cash\n
+2025-12-04|Customer_4|50000|Bundle Pack\nMethod: transfer\n
+2025-12-04|Customer_5|60000|Item D x3\nMethod: cash\n
+2025-12-05|Customer_1|20000|Item A x1\nMethod: cash\n
+2025-12-05|Customer_2|30000|Item B x1\nMethod: card\n
+2025-12-05|Customer_3|40000|Item C x2\nMethod: cash\n
+2025-12-05|Customer_4|50000|Bundle Pack\nMethod: transfer\n
+2025-12-05|Customer_5|60000|Item D x3\nMethod: cash\n
+2025-12-06|Customer_1|20000|Item A x1\nMethod: cash\n
+2025-12-06|Customer_2|30000|Item B x1\nMethod: card\n
+2025-12-06|Customer_3|40000|Item C x2\nMethod: cash\n
+2025-12-06|Customer_4|50000|Bundle Pack\nMethod: transfer\n
+2025-12-06|Customer_5|60000|Item D x3\nMethod: cash\n
+2025-12-07|Customer_1|20000|Item A x1\nMethod: cash\n
+2025-12-07|Customer_2|30000|Item B x1\nMethod: card\n
+2025-12-07|Customer_3|40000|Item C x2\nMethod: cash\n
+2025-12-07|Customer_4|50000|Bundle Pack\nMethod: transfer\n
+2025-12-07|Customer_5|60000|Item D x3\nMethod: cash\n
+2025-12-08|Customer_1|20000|Item A x1\nMethod: cash\n
+2025-12-08|Customer_2|30000|Item B x1\nMethod: card\n
+2025-12-08|Customer_3|40000|Item C x2\nMethod: cash\n
+2025-12-08|Customer_4|50000|Bundle Pack\nMethod: transfer\n
+2025-12-08|Customer_5|60000|Item D x3\nMethod: cash\n
+0000-00-00|aldo|500000|Detail pembelian (Adidas):\n- Adidas Hoodie x2 (Rp 250000)\nTotal: Rp 500000\nMetode: transfer\nDibayar: Rp 500000, Kembali: Rp 0\n
+0000-00-00 00:00:00|wela|2750000|Detail pembelian (YSL):\n- YSL Necklace x1 (Rp 1250000)\n- YSL Perfume 50ml x2 (Rp 750000)\nTotal: Rp 2750000\nMetode: Transfer (Bank C - 1122334455)\nDibayar via transfer.\n
+2026-01-04 05:42:37|wala|1700000|Detail pembelian (New Balance):\n- NB 574 x2 (Rp 850000)\nTotal: Rp 1700000\nMetode: Transfer (Bank A - 1234567890)\nDibayar via transfer.\n
